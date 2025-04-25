@@ -1,0 +1,10 @@
+[2025-04-23 18:15:45,218] DEBUG - Starting Division!
+[2025-04-23 18:15:47,323] INFO - 0.0
+[2025-04-23 18:15:48,052] INFO - 0.0
+[2025-04-23 18:15:48,059] ERROR - Attempting to divide by 0!
+[2025-04-23 18:15:48,065] WARNING - The result value is None!
+[2025-04-23 18:21:33,996] INFO - Displaying menu options.
+[2025-04-23 18:22:02,798] INFO - Menu choice entered: H
+[2025-04-23 18:22:06,303] INFO - Quantity entered for Hamburger: 2
+[2025-04-23 18:22:12,578] INFO - Menu choice entered: E
+[2025-04-23 18:22:12,584] INFO - Total cost calculated: $4.98

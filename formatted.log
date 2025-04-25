@@ -1,0 +1,13 @@
+[2025-04-23 18:09:18,368] {DEBUG} __main__: #20 - Starting Division!
+[2025-04-23 18:09:20,331] {INFO} __main__: #23 - 6.0
+[2025-04-23 18:09:21,307] {INFO} __main__: #25 - 3.0
+[2025-04-23 18:15:45,218] {DEBUG} __main__: #11 - Starting Division!
+[2025-04-23 18:15:47,323] {INFO} __main__: #14 - 0.0
+[2025-04-23 18:15:48,052] {INFO} __main__: #16 - 0.0
+[2025-04-23 18:15:48,059] {ERROR} __main__: #21 - Attempting to divide by 0!
+[2025-04-23 18:15:48,065] {WARNING} __main__: #28 - The result value is None!
+[2025-04-23 18:21:33,996] {INFO} __main__: #22 - Displaying menu options.
+[2025-04-23 18:22:02,798] {INFO} __main__: #35 - Menu choice entered: H
+[2025-04-23 18:22:06,303] {INFO} __main__: #42 - Quantity entered for Hamburger: 2
+[2025-04-23 18:22:12,578] {INFO} __main__: #55 - Menu choice entered: E
+[2025-04-23 18:22:12,584] {INFO} __main__: #59 - Total cost calculated: $4.98

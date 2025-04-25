@@ -1,0 +1,5 @@
+2025-04-23 18:21:33,996 - __main__ - INFO - Displaying menu options.
+2025-04-23 18:22:02,798 - __main__ - INFO - Menu choice entered: H
+2025-04-23 18:22:06,303 - __main__ - INFO - Quantity entered for Hamburger: 2
+2025-04-23 18:22:12,578 - __main__ - INFO - Menu choice entered: E
+2025-04-23 18:22:12,584 - __main__ - INFO - Total cost calculated: $4.98
